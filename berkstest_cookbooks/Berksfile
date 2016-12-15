@@ -2,6 +2,6 @@ source "https://supermarket.chef.io"
 cookbook 'nodejs', '~> 3.0.0'
 cookbook 'build-essential', '= 3.2.0'
 cookbook 'apt', '= 3.0.0'
-cookbook 'windows', '= 1.44.3'
+cookbook 'windows', '= 1.44.1'
 cookbook 'chef_handler', '= 1.4.0'
 cookbook 'homebrew', '= 2.1.0'

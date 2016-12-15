@@ -2,4 +2,3 @@ source "https://supermarket.chef.io"
 cookbook 'nodejs', '~> 3.0.0'
 cookbook 'build-essential', '= 3.2.0'
 cookbook 'apt', '= 3.0.0'
-cookbook 'ming', '=1.2.3'
